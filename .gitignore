@@ -1,0 +1,13 @@
+# Local environment / secrets
+.env
+
+# Gmail OAuth artifacts (daily_email_summary.py)
+token.json
+credentials.json
+
+# Logs
+summary.log
+
+# Python
+__pycache__/
+*.pyc
